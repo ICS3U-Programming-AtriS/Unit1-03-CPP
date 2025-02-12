@@ -7,5 +7,5 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Salutions, my fellow Earth!" << std::endl;
+    std::cout << "Salutations, my fellow Earth!" << std::endl;
 }
